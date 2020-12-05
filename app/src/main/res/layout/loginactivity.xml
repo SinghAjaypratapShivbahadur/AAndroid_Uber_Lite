@@ -186,7 +186,7 @@ tools:context=".LoginActivity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password"
-        android:importantForAutofill="no"/>
+        android:importantForAutofill="no" />
 
     <ProgressBar
         android:id="@+id/progressBar2"
