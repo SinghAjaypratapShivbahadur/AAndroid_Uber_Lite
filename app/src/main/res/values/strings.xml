@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AAndroid_Uber_Lite</string>
+    <string name="for_cabs_bike_pooling_bus_rentals">For Cabs/Bike_Pooling/Bus_Rentals</string>
+    <string name="login">Login:</string>
+    <string name="email_id">Email_Id</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="don_t_have_a_account_click_here_to_register">Don\'t Have A Account? Click Here To Register.</string>
+    <string name="password">Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="android_uber_lite">Android_Uber_Lite</string>
+    <!--<string name="for_cabs_bike_pooling_bus_rentals">For Cabs/Bike_Pooling/Bus_Rentals</string>-->
+    <string name="register">Register:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <!--<string name="email_id">Email_Id</string>
+    <string name="mobile_number">Mobile Number</string>-->
+    <string name="password_should_be_strong">Password(Should Be Strong)</string>
+    <string name="password_confirm">Password(Confirm)</string>
+    <string name="already_have_a_account_click_here_to_login">Already Have A Account? Click Here To Login.</string>
+    <string name="register_now">Register Now!</string>
+    <string name="log_in">Log In</string>
+    <string name="header">Header</string>
+    <string name="Heading" />
+    <string name="welcome">Welcome</string>
+    <string name="log_out">Log Out</string>
+</resources>

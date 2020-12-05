@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934579231986",
+    "firebase_url": "https://android-uber-lite-4cfbc.firebaseio.com",
+    "project_id": "android-uber-lite-4cfbc",
+    "storage_bucket": "android-uber-lite-4cfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934579231986:android:2abce474b59ed6cb58046b",
+        "android_client_info": {
+          "package_name": "com.example.aandroid_uber_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934579231986-rsvkh7g5joe28hc4tpdblflgog0r4h0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ6-70HhsUag92-06WARCPRYPh2p66vao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934579231986-rsvkh7g5joe28hc4tpdblflgog0r4h0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
